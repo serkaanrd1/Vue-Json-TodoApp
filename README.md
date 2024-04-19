@@ -1,4 +1,4 @@
-# todo-app
+# Todo-App 2
 
 ## Project setup
 
