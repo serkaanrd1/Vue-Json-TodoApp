@@ -31,7 +31,6 @@ npm run build
 ![](./vue2ss.png)
 ![](./vuess.png)
 ```
-```
 
 
 
